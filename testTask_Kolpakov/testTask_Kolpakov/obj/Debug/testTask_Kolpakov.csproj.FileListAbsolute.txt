@@ -1,0 +1,9 @@
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\bin\Debug\testTask_Kolpakov.exe.config
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\bin\Debug\testTask_Kolpakov.exe
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\bin\Debug\testTask_Kolpakov.pdb
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.csprojAssemblyReference.cache
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.Form1.resources
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.Properties.Resources.resources
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.csproj.GenerateResource.cache
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.exe
+C:\Users\Orange\source\repos\testTask_Kolpakov\testTask_Kolpakov\obj\Debug\testTask_Kolpakov.pdb
